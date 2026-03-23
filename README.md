@@ -15,6 +15,7 @@ The icons are:
 ---
 
 ## 📁 Structure
+```
 disasters/
 └── natural
     ├── earthquake.svg
@@ -25,7 +26,7 @@ disasters/
     ├── volcano.svg
     ├── storm.svg
     └── blizzard.svg
-
+```
 
 ---
 
